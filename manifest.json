@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+  
+    "name": "pin cracker A6",
+    "description": "",
+    "version": "1",
+    "icons": {
+      "16":"icon.png",
+      "32":"icon.png",
+      "48":"icon.png",
+      "128":"icon.png"
+    },
+  
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html",
+      "default_css": "sample.css"
+    }
+  }
